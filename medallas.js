@@ -325,6 +325,7 @@ const productos = [
 {categoria: "Logros de usuario", subcategoria: "", nombre: "+2 año de permanencia", imagen: "https://i.postimg.cc/Mn6tWSCB/2-ano-de-permanencia.png",descripcion: "+2 año de permanencia en el foro", precio: 0, evidencia: true},
 {categoria: "Logros de usuario", subcategoria: "", nombre: "+3 año de permanencia", imagen: "https://i.postimg.cc/MvxXMr3Y/3-anos-de-permanencia.png",descripcion: "+3 año de permanencia en el foro", precio: 0, evidencia: true},
 {categoria: "Logros de usuario", subcategoria: "", nombre: "Velocidad Nivel 1", imagen: "https://2img.net/i.imgur.com/JjlNEJo.png",descripcion: "15 post en la zona de rol en un lapso de 1 mes. (Estos post no son acumulables)", precio: 0, evidencia: true},
+{categoria: "Logros de usuario", subcategoria: "", nombre: "Velocidad Nivel 1", imagen: "https://2img.net/i.imgur.com/JjlNEJo.png",descripcion: "15 post en la zona de rol en un lapso de 1 mes. (Estos post no son acumulables)", precio: 0, evidencia: true},
 {categoria: "Logros de usuario", subcategoria: "", nombre: "Velocidad Nivel 2", imagen: "https://2img.net/i.imgur.com/pNlXmDp.png",descripcion: "25 post en la zona de rol en un lapso de 1 mes y medio. (Estos post no son acumulables)", precio: 0, evidencia: true},
 {categoria: "Logros de usuario", subcategoria: "", nombre: "Velocidad Nivel 3", imagen: "https://2img.net/i.imgur.com/qUOkiSX.png",descripcion: "40 post en la zona de rol en un lapso de dos meses. (Estos post no son acumulables)", precio: 0, evidencia: true},
 {categoria: "Logros de usuario", subcategoria: "", nombre: "Amigable", imagen: "https://cdn-icons-png.flaticon.com/512/2024/2024079.png",descripcion: "Si eres participativo y sociable con la mayoría del foro.", precio: 0, evidencia: true},
@@ -536,6 +537,5 @@ const productos = [
 {categoria: "galleriet", subcategoria: "", nombre: "Mala suerte", imagen: "https://2img.net/i.imgur.com/kAi2BA1.png",descripcion: " Si has sacado menos de 8 - 8 en ambas tiradas (encuentro y escape) esta medalla es un premio consuelo para ti.", precio: 0, evidencia: true},
 {categoria: "galleriet", subcategoria: "", nombre: "Fav de los dioses", imagen: "https://images2.imgbox.com/aa/b4/D9uCSBFk_o.png",descripcion: "Si has sacado 8 - 8 o más en ambas tiradas (encuentro y escape) esta medalla es para ti", precio: 0, evidencia: true},
 {categoria: "galleriet", subcategoria: "", nombre: "Galleriet", imagen: "https://2img.net/i.imgur.com/dJTgPeQ.png",descripcion: "aSi has participado de la trama puedes reclamar esta medalla conmemorativa. Si has participado en en todas las intervenciones puedes cobrar una recompensa de 500 kr.", precio: 0, evidencia: true},
-
 
 ];
