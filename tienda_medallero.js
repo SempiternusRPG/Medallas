@@ -78,13 +78,16 @@ function renderProductos() {
         });
       });
     } else {
-      // ???? categoría sin subcategoría
+      // 🌟 CATEGORÍA SIN SUBCATEGORÍA (CORREGIDO)
       $(`#cat-${idCategoria}`).append(`
         <div class="contenedor-productos" id="solo-${idCategoria}"></div>
       `);
 
       productos.forEach((p, index) => {
         if (p.categoria === categoria) {
+          // Si el producto requiere evidencia abre el modal, si es false va directo al carrito
+          const onClickAccion = p.evidencia ? `abrirModal(${index})` : `agregar_carrito(${index})`;
+
           $(`#solo-${idCategoria}`).append(`
             <div class="medalla-sem">
                 <h4><span>${p.nombre}</span></h4>
@@ -92,7 +95,7 @@ function renderProductos() {
                 <div class="sem-me-img"><img src="${p.imagen}"/></div>
                 <div class="sem-me-desc">${p.descripcion}</div>
                 </div>
-                <button class="btn-agregar" onClick="abrirModal(${index})">
+                <button class="btn-agregar" onClick="${onClickAccion}">
                   Agregar
                 </button>
               </div>
