@@ -394,7 +394,7 @@ const productos = [
 
 
 {categoria: "Edición limitada", subcategoria: "", nombre: "Gåte's blog", imagen: "https://2img.net/i.imgur.com/Y5hfJk7.png",descripcion: "He utilizado la información colgada en el blog de Gåte on rol.", precio: 0, evidencia: true},
-{categoria: "Edición limitada", subcategoria: "", nombre: "Universos alternativoss", imagen: "https://cdn-icons-png.flaticon.com/512/1534/1534067.png",descripcion: "Como diría Barbie: Tú puedes ser lo que quieras ser. ¡Deja volar esa imaginación y escribe todo lo que quieras!  He comprado el pase para postear en esta zona.", precio: 200, evidencia: false},
+{categoria: "Edición limitada", subcategoria: "", nombre: "Universos alternativos", imagen: "https://cdn-icons-png.flaticon.com/512/1534/1534067.png",descripcion: "Como diría Barbie: Tú puedes ser lo que quieras ser. ¡Deja volar esa imaginación y escribe todo lo que quieras!  He comprado el pase para postear en esta zona.", precio: 200, evidencia: false},
 {categoria: "Edición limitada", subcategoria: "", nombre: "Cumpleaños del foro", imagen: "https://2img.net/i.imgur.com/LKIqhzD.png",descripcion: "¡Cumplimos un año en línea !", precio: 0, evidencia: true},
 {categoria: "Edición limitada", subcategoria: "", nombre: "Mente creativa", imagen: "https://2img.net/i.imgur.com/xU4Wt4k.png",descripcion: "Has contribuido a la comunidad ya sea con gráficos o códigos.", precio: 0, evidencia: true},
 {categoria: "Edición limitada", subcategoria: "", nombre: "Lotería de Bergen", imagen: "https://2img.net/i.imgur.com/g6WwuZG.png",descripcion: " ¿Has participado de la lotería? Aquí tu medalla conmemorativa del evento", precio: 0, evidencia: true},
