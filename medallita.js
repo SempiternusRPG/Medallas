@@ -412,6 +412,7 @@ const productos = [
 {categoria: "Edición limitada", subcategoria: "", nombre: "Blomstring", imagen: "https://i.postimg.cc/RN7STCt8/Evento-primavera.png",descripcion: "Medalla por participar con al menos 3 posts en el evento de primavera 'Blomstring'.", precio: 0, evidencia: true},
 {categoria: "Edición limitada", subcategoria: "", nombre: "Cambio de skin", imagen: "https://i.postimg.cc/c44X3RfH/easfaf.png",descripcion: "Medalla por participar en las actividades de Tumblr al momento del cambio de skin", precio: 0, evidencia: true},
 {categoria: "Edición limitada", subcategoria: "", nombre: "Bingo 17 de mayo", imagen: "https://i.postimg.cc/ydQFLKV3/Sin-titulo-1.png",descripcion: "Medalla por participar en las actividades del día nacional de Noruega 2026", precio: 0, evidencia: true},
+{categoria: "Edición limitada", subcategoria: "", nombre: "Programa de embajadores", imagen: "https://i.postimg.cc/HLqQQg1h/Embajador.png",descripcion: "Medalla obtenida por ser parte del programa de integración de embajadores.", precio: 0, evidencia: true},
 
 {categoria: "Minitrama", subcategoria: "", nombre: "Fogwalker", imagen: "https://i.postimg.cc/NMYG0kXW/Fogwalker.png",descripcion: "No sabes cómo, pero has logrado orientarte incluso en el peor de los escenarios. ¡Enhorabuena! Quizás algún día inventen una leyenda nórdica en honor a tu extraña habilidad para encontrar el camino entre la niebla.", precio: 0, evidencia: true},
 
