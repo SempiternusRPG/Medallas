@@ -83,7 +83,7 @@ const productos = [
 {categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Tiempo en naturaleza", imagen: "https://2img.net/i.imgur.com/Ig6xDa9.png",descripcion: "",precio: 30, evidencia: false},
 {categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Comprar", imagen: "https://2img.net/i.imgur.com/mZKb3nC.png",descripcion: "",precio: 30, evidencia: false},
 {categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Animales", imagen: "https://2img.net/i.imgur.com/i6oXTPL.png",descripcion: "",precio: 30, evidencia: false},
-{categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Videojuegos", imagen: "https://images2.imgbox.com/15/91/6BBuj3BU_o.png",descripcion: "",precio: 30, evidencia: false},
+{categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Videojuegos", imagen: "https://i.imgur.com/05orjuN.png",descripcion: "",precio: 30, evidencia: false},
 {categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Fotografía", imagen: "https://2img.net/i.imgur.com/tIsIlrR.png",descripcion: "",precio: 30, evidencia: false},
 {categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Cocinar", imagen: "https://2img.net/i.imgur.com/CIFe3xL.png",descripcion: "",precio: 30, evidencia: false},
 {categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Viajar", imagen: "https://2img.net/i.imgur.com/APzMwm7.png",descripcion: "",precio: 30, evidencia: false},
