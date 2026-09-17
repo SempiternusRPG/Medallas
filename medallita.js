@@ -74,6 +74,7 @@ const productos = [
 {categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Team playa", imagen: "https://i.postimg.cc/HjrX4JHB/Team-playa.png",descripcion: "",precio: 30, evidencia: false},
 {categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Team libro físico", imagen: "https://i.postimg.cc/fJXdp6VX/Team-libro-fisico.png",descripcion: "",precio: 30, evidencia: false},
 {categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Team ebook", imagen: "https://i.postimg.cc/sQvQc8FB/Team-e-book.png",descripcion: "",precio: 30, evidencia: false},
+{categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Mejor no veas que leo", imagen: "https://i.imgur.com/KM1S2DJ.png",descripcion: "",precio: 30, evidencia: false},
 {categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Pintar", imagen: "https://2img.net/i.imgur.com/ZPZnZDV.png",descripcion: "",precio: 30, evidencia: false},
 {categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Tatuajes", imagen: "https://2img.net/i.imgur.com/OZjVBT7.png",descripcion: "",precio: 30, evidencia: false},
 {categoria: "generales", subcategoria: "gustos y preferencias", nombre: "Leer", imagen: "https://2img.net/i.imgur.com/wWZQZjq.png",descripcion: "",precio: 30, evidencia: false},
@@ -181,6 +182,7 @@ const productos = [
 {categoria: "identidad", subcategoria: "situación sentimental", nombre: "En duelo amoroso", imagen: "https://i.postimg.cc/d0kZGJ7b/En-duelo-amoroso.png",descripcion: "", precio: 30, evidencia: false},
 {categoria: "identidad", subcategoria: "situación sentimental", nombre: "Fan de mi pareja", imagen: "https://i.postimg.cc/68RhMm6j/Fan-de-mi-pareja.png",descripcion: "", precio: 30, evidencia: false},
 {categoria: "identidad", subcategoria: "situación sentimental", nombre: "Pareja trofeo", imagen: "https://i.postimg.cc/d7jjYZyG/Pareja-trofeo.png",descripcion: "", precio: 30, evidencia: false},
+{categoria: "identidad", subcategoria: "situación sentimental", nombre: "Slut era", imagen: "https://i.imgur.com/a2AdqY9.png",descripcion: "", precio: 30, evidencia: false},
 
 
 {categoria: "identidad", subcategoria: "identidad de género", nombre: "Cisgénero", imagen: "https://2img.net/i.imgur.com/5VTMB69.png",descripcion: "", precio: 30, evidencia: false},
@@ -351,7 +353,7 @@ const productos = [
 {categoria: "Logros de usuario", subcategoria: "", nombre: "Invitación especial", imagen: "https://i.postimg.cc/K47DSBhx/Invitacion-especial.png",descripcion: "Has hecho uso de Døgne en alguno de tus temas.", precio: 0, evidencia: true},
 {categoria: "Logros de usuario", subcategoria: "", nombre: "Rescatador de tramas", imagen: "https://i.postimg.cc/nXr4DWsy/Rescatador-de-tramas.png",descripcion: "Reviviste un tema que llevaba más de un mes inactivo", precio: 0, evidencia: true},
 {categoria: "Logros de usuario", subcategoria: "", nombre: "Bibliotecario/a", imagen: "https://i.postimg.cc/mhV1ywGS/Bibliotecario.png",descripcion: "Actualizaste expedientes de tus personajes al menos tres meses después de su creación para añadir contenido que sucedió on rol.", precio: 0, evidencia: true},
-{categoria: "Logros de usuario", subcategoria: "", nombre: "Cameleón", imagen: "  https://i.imgur.com/YXpJwxh.png",descripcion: "Si tu personaje ha hecho un cambio de grupo respaldado por algo sucedido on rol puedes solicitar esta medalla", precio: 0, evidencia: true},
+{categoria: "Logros de usuario", subcategoria: "", nombre: "Camaleón", imagen: "  https://i.imgur.com/YXpJwxh.png",descripcion: "Si tu personaje ha hecho un cambio de grupo respaldado por algo sucedido on rol puedes solicitar esta medalla", precio: 0, evidencia: true},
 
 
 
@@ -402,6 +404,7 @@ const productos = [
 {categoria: "logros de personaje", subcategoria: "", nombre: "Efecto mariposa", imagen: "https://i.postimg.cc/F7QcKqpx/Efecto-mariposa.png",descripcion: "(New) Un gesto mínimo terminó desatando consecuencias que se propagaron generando caos. Esta medalla se puede solicitar si una decisión tuya impactó en al menos 3 temas de otros usuarios.", precio: 0, evidencia: true},
 {categoria: "logros de personaje", subcategoria: "", nombre: "Cara conocida", imagen: "https://i.postimg.cc/QHs9D7NC/Cara-conocida.png",descripcion: "(New) Te has cruzado con medio foro sin darte cuenta. Medalla disponible por tener interacción con 15 personajes distintos.", precio: 0, evidencia: true},
 {categoria: "logros de personaje", subcategoria: "", nombre: "Pañuelo de lágrimas", imagen: "https://i.postimg.cc/mc0k5z6D/Panuelo-de-lagrimas.png",descripcion: "(New) Fuiste el apoyo, el hombro para llorar de alguien en un mal momento.", precio: 0, evidencia: true},
+{categoria: "logros de personaje", subcategoria: "", nombre: "Hide", imagen: "https://i.imgur.com/PCQn5ua.png",descripcion: "Por tener un primer tema con contenido sexual, violento o con TW en hide", precio: 0, evidencia: true},
 
 
 {categoria: "Edición limitada", subcategoria: "", nombre: "Gåte's blog", imagen: "https://2img.net/i.imgur.com/Y5hfJk7.png",descripcion: "He utilizado la información colgada en el blog de Gåte on rol.", precio: 0, evidencia: true},
