@@ -434,7 +434,7 @@ const productos = [
 {categoria: "Edición limitada", subcategoria: "", nombre: "Entrevistas", imagen: "https://i.imgur.com/HIr75Un.png",descripcion: "Medalla por participar en las entrevistas de personaje del 4° aniversario del foro'.", precio: 0, evidencia: true},
 {categoria: "Edición limitada", subcategoria: "", nombre: "Búsqueda aniversario 4", imagen: "https://i.imgur.com/yDvOXHj.png  ",descripcion: "Medalla por participar en la búsqueda del tesoro del cuarto aniversario del foro.", precio: 0, evidencia: true},
 {categoria: "Edición limitada", subcategoria: "", nombre: "Pinta tu calabaza", imagen: "https://i.imgur.com/zRBHrxA.png",descripcion: "Medalla por participar de la edición de pinta tu calabaza 2026", precio: 0, evidencia: true},
-{categoria: "Edición limitada", subcategoria: "", nombre: "Carrera de Halloween", imagen: "https://i.imgur.com/TKIcChi.png",descripcion: "Medalla conmemorativa por participar en la edición de carrera de halloween 2026.", precio: 0, evidencia: true},
+{categoria: "Edición limitada", subcategoria: "", nombre: "Carrera de Halloween", imagen: "https://imgur.com/1p9MkFE",descripcion: "Medalla conmemorativa por participar en la edición de carrera de halloween 2026.", precio: 0, evidencia: true},
 {categoria: "Edición limitada", subcategoria: "", nombre: "Decora tu fantasma", imagen: "https://i.imgur.com/ZDbp4Af.png",descripcion: "Medalla conmemorativa por participar en decora tu fantasma halloween 2026.", precio: 0, evidencia: true},
 {categoria: "Edición limitada", subcategoria: "", nombre: "Búsqueda halloween 2026", imagen: "https://i.imgur.com/ZDbp4Af.png",descripcion: "Medalla conmemorativa por participar en la búsqueda de halloween 2026.", precio: 0, evidencia: true},
 
