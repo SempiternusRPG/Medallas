@@ -436,7 +436,7 @@ const productos = [
 {categoria: "Edición limitada", subcategoria: "", nombre: "Pinta tu calabaza", imagen: "https://i.imgur.com/zRBHrxA.png",descripcion: "Medalla por participar de la edición de pinta tu calabaza 2026", precio: 0, evidencia: true},
 {categoria: "Edición limitada", subcategoria: "", nombre: "Carrera de Halloween", imagen: "https://i.imgur.com/TKIcChi.png",descripcion: "Medalla conmemorativa por participar en la edición de carrera de halloween 2026.", precio: 0, evidencia: true},
 {categoria: "Edición limitada", subcategoria: "", nombre: "Decora tu fantasma", imagen: "https://i.imgur.com/ZDbp4Af.png",descripcion: "Medalla conmemorativa por participar en decora tu fantasma halloween 2026.", precio: 0, evidencia: true},
-{categoria: "Edición limitada", subcategoria: "", nombre: "Búsqueda halloween 2026", imagen: "https://i.imgur.com/ZDbp4Af.png",descripcion: "Medalla conmemorativa por participar en decora tu fantasma halloween 2026.", precio: 0, evidencia: true},
+{categoria: "Edición limitada", subcategoria: "", nombre: "Búsqueda halloween 2026", imagen: "https://i.imgur.com/ZDbp4Af.png",descripcion: "Medalla conmemorativa por participar en la búsqueda de halloween 2026.", precio: 0, evidencia: true},
 
 {categoria: "Minitrama", subcategoria: "", nombre: "Fogwalker", imagen: "https://i.postimg.cc/NMYG0kXW/Fogwalker.png",descripcion: "No sabes cómo, pero has logrado orientarte incluso en el peor de los escenarios. ¡Enhorabuena! Quizás algún día inventen una leyenda nórdica en honor a tu extraña habilidad para encontrar el camino entre la niebla.", precio: 0, evidencia: true},
 
