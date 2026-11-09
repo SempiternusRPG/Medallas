@@ -292,6 +292,7 @@ const productos = [
 {categoria: "Salud y enfermedad", subcategoria: "Enfermedades físicas", nombre: "Discapacidad auditiva", imagen: "https://i.postimg.cc/HjsBTz3r/Discapacidad-auditiva.png",descripcion: "", precio: 30, evidencia: false},
 {categoria: "Salud y enfermedad", subcategoria: "Enfermedades físicas", nombre: "Discapacidad visual", imagen: "https://i.postimg.cc/Mc7dprhs/Discapacidad-visual.png",descripcion: "", precio: 30, evidencia: false},
 {categoria: "Salud y enfermedad", subcategoria: "Enfermedades físicas", nombre: "Discapacidad del habla", imagen: "https://i.postimg.cc/KkgcTBDY/Discapacidad-Del-habla.png",descripcion: "", precio: 30, evidencia: false},
+  {categoria: "Salud y enfermedad", subcategoria: "Enfermedades físicas", nombre: "Discapacidad física", imagen: "https://cdn-icons-png.flaticon.com/128/2446/2446011.png",descripcion: "", precio: 30, evidencia: false},
 {categoria: "Salud y enfermedad", subcategoria: "Enfermedades físicas", nombre: "Otras enfermedades", imagen: "https://i.postimg.cc/dZ8vhqZh/otras-enfermedades.png",descripcion: "", precio: 30, evidencia: false},
 
 {categoria: "Salud y enfermedad", subcategoria: "Enfermedades mentales", nombre: "Depresión", imagen: "https://i.postimg.cc/sGpyMVGW/Depresion.png",descripcion: "", precio: 30, evidencia: false},
